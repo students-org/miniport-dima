@@ -1,0 +1,16 @@
+{
+  "name": "miniport-dima",
+  "version": "1.0.0",
+  "description": "***https://html5up.net/miniport***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
+  }
+}

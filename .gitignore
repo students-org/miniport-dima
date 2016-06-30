@@ -1,0 +1,7 @@
+node_modules/
+/style.css
+/style.css.map
+/index.html
+*.log
+*.map
+*~
